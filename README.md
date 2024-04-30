@@ -1,10 +1,12 @@
 Dashboard Link : https://app.powerbi.com/groups/me/reports/0197d732-c7e8-45f2-9d28-c52ce341c5d0/ReportSection0e765c0061580b067c73?ctid=34bd8bed-2ac1-41ae-9f08-4e0a3f11706c&experience=power-bi
 
+Dashboard Link : https://app.powerbi.com/links/4byJq_gGlK?ctid=34bd8bed-2ac1-41ae-9f08-4e0a3f11706c&pbi_source=linkShare
+
 𝗜 𝗳𝗶𝗻𝗱 𝗷𝗼𝘆 𝗶𝗻 𝘀𝗵𝗮𝗿𝗶𝗻𝗴 𝗺𝘆 𝗹𝗲𝗮𝗿𝗻𝗶𝗻𝗴𝘀."
 
 🏆 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗢𝘃𝗲𝗿𝘃𝗶𝗲𝘄:
 
-AtliQ Hardware is growing fast and wants to use PowerBi to make better decisions and beat competitors. They asked me to help with this, and I did it as part of my codebasics bootcamp.
+AtliQ Hardware is growing fast and wants to use PowerBi to make better decisions and beat competitors. They asked me to help with this, and I did it as part of my codebasics boot camp.
 
 💡 𝗪𝗵𝗮𝘁 𝗜 𝗗𝗶𝗱:
 
