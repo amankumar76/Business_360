@@ -1,6 +1,6 @@
-Dashboard Link : https://app.powerbi.com/groups/me/reports/0197d732-c7e8-45f2-9d28-c52ce341c5d0/ReportSection0e765c0061580b067c73?ctid=34bd8bed-2ac1-41ae-9f08-4e0a3f11706c&experience=power-bi
+Dashboard Link: https://app.powerbi.com/groups/me/reports/0197d732-c7e8-45f2-9d28-c52ce341c5d0/ReportSection0e765c0061580b067c73?ctid=34bd8bed-2ac1-41ae-9f08-4e0a3f11706c&experience=power-bi
 
-Dashboard Link : https://app.powerbi.com/links/4byJq_gGlK?ctid=34bd8bed-2ac1-41ae-9f08-4e0a3f11706c&pbi_source=linkShare
+Dashboard Link: https://app.powerbi.com/links/4byJq_gGlK?ctid=34bd8bed-2ac1-41ae-9f08-4e0a3f11706c&pbi_source=linkShare
 
 𝗜 𝗳𝗶𝗻𝗱 𝗷𝗼𝘆 𝗶𝗻 𝘀𝗵𝗮𝗿𝗶𝗻𝗴 𝗺𝘆 𝗹𝗲𝗮𝗿𝗻𝗶𝗻𝗴𝘀."
 
